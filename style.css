@@ -3,8 +3,6 @@ body{
     padding:0 ;
     box-sizing: border-box;
     background: url("https://source.unsplash.com/random/1024*768");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .calc1{
