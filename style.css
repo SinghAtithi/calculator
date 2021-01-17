@@ -19,7 +19,7 @@ body{
     background: rgba(7, 0, 0, 0.6);
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.6);
     backdrop-filter: blur( 4.0px );
-    -webkit-backdrop-filter: blur( 4.0px );
+    -webkit-backdrop-filter: blur( 5.0px );
     border-radius: 30px;
     text-align: center;
 }
