@@ -4,8 +4,6 @@ body{
     box-sizing: border-box;
     background: url("https://source.unsplash.com/random/1024*768");
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
     background-size: cover;
 }
 
