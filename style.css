@@ -2,9 +2,9 @@ body{
     margin: 0;
     padding:0 ;
     box-sizing: border-box;
-    background: url("https://source.unsplash.com/random");
+    background: url("https://source.unsplash.com/random/1024*768");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
     background-attachment: fixed;
     background-size: cover;
 }
